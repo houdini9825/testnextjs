@@ -22,7 +22,7 @@ export default function Page() {
 							href="https://nextjs.org/learn/"
 							className="text-blue-500"
 						>
-							Next.js Learn Course
+							Blah blah
 						</a>
 						, brought to you by Vercel.
 					</p>
